@@ -26,4 +26,4 @@ Roadmap to cryptography
         - RSA
         - Digital Signatures
     - Hashing
-        - Authentication & Authori
+        - Authentication & Authorization
