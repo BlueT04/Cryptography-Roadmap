@@ -5,13 +5,13 @@ Roadmap to cryptography
 - Encryption / Decryption ✅
 - Types of Cryptography
     - Symmetric Key Cryptography (Secret Key)
-        - Stream Ciphers
+        - Stream Ciphers 🚧
             - One-time pad ✅
             - Pseudo random generators
             - Attacks
             - Pros & Cons ✅
             - Applications
-        - Block Ciphers
+        - Block Ciphers 🚧
             - Types of Ciphers
                 - Data Encryption Standard (DES)
                    - Feistel Networks ✅
@@ -22,8 +22,8 @@ Roadmap to cryptography
             - Attacks
             - Pros & Cons
             - Applications
-    - Asymmetric Key Cryptography (Public Key)
+    - Asymmetric Key Cryptography (Public Key) 🚧
         - RSA
         - Digital Signatures
-    - Hashing
+    - Hashing 🚧
         - Authentication & Authorization
