@@ -16,7 +16,7 @@ Roadmap to cryptography
                 - Data Encryption Standard (DES)
                    - Feistel Networks ✅
                     - DES encryption ✅
-                    - DES alteratives
+                    - DES alteratives ✅
                 - Advanced Encryption Standard (AES)
             - Confusion, Diffusion
             - Attacks
